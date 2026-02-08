@@ -1,16 +1,16 @@
-## Hi there 👋
+# Manishva VIDJEACOUMAR
 
-<!--
-**IshvaV/IshvaV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Étudiant en L2 Informatique @Paris-Saclay** | Futur apprenti en **L3 MIAGE** (Sept 2026)
 
-Here are some ideas to get you started:
+### 🚀 À propos de moi
+- 🎓 Actuellement en **Licence 2 Informatique** à l'Université Paris-Saclay (Orsay).
+- 🎯 Objectif : Intégrer une L3 MIAGE en alternance pour me spécifier dans la **Data et le traitement de données**.
+- 💡 Passioné par l'analyse de données
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Compétences Techniques
+- **Langages :** Python, Java, C++, OCaml, SQL.
+- **Outils :** Git, Bash, IntelliJ, VS Code, Excel.
+- **Savoir-Faire :** Algorithmique, Structures de données, Réseaux, Architecture.
+
+### 📫 Me contacter
+- [manishvavidjea@gmail.com](mailto:manishvavidjea@gmail.com)
